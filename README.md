@@ -1,2 +1,6 @@
-# Quiz_App
-Quiz applications are a fantastic way to engage and entertain users on websites. Whether you want to test knowledge, provide educational content, or simply offer a fun activity, building a quiz application using HTML, CSS, and JavaScript is an excellent choice.
+# Harry-Potter-Quiz
+
+A simple but not too simple Harry Potter Quiz. 
+
+##Live Demo
+https://grinchcreator.github.io/Harry-Potter-Quiz/
