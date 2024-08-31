@@ -10,4 +10,4 @@ Welcome to the Quiz App, an engaging and educational project crafted using HTML,
 
 
 ##Live Demo
-https://grinchcreator.github.io/Harry-Potter-Quiz/
+https://ankitab78.github.io/Quiz_App/
